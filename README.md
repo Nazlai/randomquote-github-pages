@@ -1,1 +1,1 @@
-Displays a random quote on button click. Page is hosted on  https://nazlai.github.io/randomquote-github-pages/
+Displays a random quote on button click. Page is hosted at  https://nazlai.github.io/randomquote-github-pages/
